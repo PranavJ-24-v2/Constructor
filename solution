@@ -9,6 +9,8 @@ public class Employee {
        this.empName = name;  
    }  
    void info(){
+   //print it
+   //p
         System.out.println("Id: "+empId+" Name: "+empName);
    }  
 	   
